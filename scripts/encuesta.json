@@ -1,0 +1,42 @@
+[
+    {
+        "pregunta": "De cual de estos libros es autor Roy Berocay?",
+        "libroRelacionado": "1",
+        "opciones": [
+            "Pequeña ala",
+            "Cronicas de una muerte anunciada",
+            "Metamorfosis"
+        ],
+        "iCorrecta": "1"
+    },
+    {
+        "pregunta": "Quien escribió cuentos de amor, locura y muerte?",
+        "libroRelacionado": "2",
+        "opciones": [
+            "Horacio Quiroga",
+            "Roy Berocay",
+            "Florencio Sanchez"
+        ],
+        "iCorrecta": "0"
+    },
+    {
+        "pregunta": "En que año se publicó La tregua?",
+        "libroRelacionado": "0",
+        "opciones": [
+            "1960",
+            "1845",
+            "1972"
+        ],
+        "iCorrecta": "2"
+    },
+    {
+        "pregunta": " De que editorial es Las venas abiertas de América Latina?",
+        "libroRelacionado": "2",
+        "opciones": [
+            "1960",
+            "1845",
+            "1972"
+        ],
+        "iCorrecta": "2"
+    }
+]
